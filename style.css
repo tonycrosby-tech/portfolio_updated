@@ -1,0 +1,45 @@
+a:hover {
+    background-color: orange;
+}
+
+a:focus {
+    background: green;
+}
+
+p {
+    font-size: 18px;
+    font-family: serif;
+}
+
+body {
+    background-image: url(./assets/HjIyYJ.jpg);
+}
+
+.image1 {
+    image-rendering: auto;
+    height: 100%;
+    width: 100%;
+    border-image-repeat: round;
+}
+
+.card {
+    background-color: whitesmoke;
+}
+
+.card-edit {
+    background-color: black;
+    color: whitesmoke;
+    opacity: 0.85;
+}
+
+.email {
+    color: whitesmoke
+}
+
+.font-email {
+    font-size: 24px;
+}
+
+P {
+    font-size: x-large;
+}
