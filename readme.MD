@@ -1,4 +1,6 @@
-<a href="http://tonycrosby.net/02_CSS_Bootstrap"><img src="./assets/Capture2.JPG" title="Website" alt="Website"></a>
+# Updated Portfolio
+
+<a href="http://tonycrosby.net/02_CSS_Bootstrap"><img src="./assets/portfolio-updated.jpg" title="Website" alt="Website"></a>
 
 
 # User Acceptance 
