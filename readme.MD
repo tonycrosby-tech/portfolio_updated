@@ -1,6 +1,6 @@
 # Updated Portfolio
 
-<a href="http://tonycrosby.net/02_CSS_Bootstrap"><img src="./assets/portfolio-updated.jpg" title="Website" alt="Website"></a>
+<a href="http://tonycrosby.net/portfolio_updated"><img src="./assets/portfolio-updated.jpg" title="Website" alt="Website"></a>
 
 > This is an updated version of my previous portfolio it includes all the homeworks and projects I have done so far To get to the deployed webpage please click the link below
 
