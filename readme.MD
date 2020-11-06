@@ -2,6 +2,14 @@
 
 <a href="http://tonycrosby.net/02_CSS_Bootstrap"><img src="./assets/portfolio-updated.jpg" title="Website" alt="Website"></a>
 
+> This is an updated version of my previous portfolio it includes all the homeworks and projects I have done so far To get to the deployed webpage please click the link below
+
+# Technologies Used Include
+
+- HTML
+- Bootstrap CSS
+- CSS
+
 # Link to the page
 
 ## https://tonycrosby.net/portfolio_updated/index.html
@@ -9,4 +17,3 @@
 # Link to the repository
 
 ## https://github.com/tonycrosby-tech/portfolio_updated
-
