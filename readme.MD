@@ -12,7 +12,7 @@
 
 # Link to the page
 
-## https://tonycrosby.net/portfolio_updated/index.html
+## https://tonycrosby-tech.github.io/portfolio_updated/
 
 # Link to the repository
 
